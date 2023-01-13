@@ -6,6 +6,7 @@ cryptography==39.0.0
 defusedxml==0.7.1
 Django==3.2.16
 django-extensions==2.2.5
+easy-thumbnails==2.7
 idna==3.4
 oauthlib==3.2.2
 Pillow==9.4.0
